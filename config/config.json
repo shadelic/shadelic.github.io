@@ -42,6 +42,11 @@
         "tetraminoDogRight": "dog_right_block_image.png",
         "tetraminoLLeft": "l_left_block_image.png",
         "tetraminoLRight": "l_right_block_image.png",
-        "tetraminoSquare": "square_block_image.png"
+        "tetraminoSquare": "square_block_image.png",
+        "music": {
+            "game": "game.mp3",
+            "rowClear": "clear.wav",
+            "tetraminoFall": "tetraminoFall.wav"
+        }
     }
 }
