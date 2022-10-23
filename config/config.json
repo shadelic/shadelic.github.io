@@ -1,0 +1,47 @@
+{
+    "keybinds": {
+        "rotate": [
+            "ArrowUp",
+            "w"
+        ],
+        "moveLeft": [
+            "ArrowLeft",
+            "a"
+        ],
+        "moveRight": [
+            "ArrowRight",
+            "d"
+        ],
+        "moveDown": [
+            "ArrowDown",
+            "s"
+        ]
+    },
+    "playfield": {
+        "rows": 20,
+        "columns": 10
+    },
+    "tetramino": {
+        "colour": {
+            "stick": "0xff0000",
+            "t": "0x0000ff",
+            "l_left": "0xffff00",
+            "l_right": "0xffa500",
+            "dog_left": "0x3f51b5",
+            "dog_right": "0x673ab7",
+            "square": "0x4caf50"
+        }
+    },
+    "assets": {
+        "background": "background.jpg",
+        "playGround": "play_ground.png",
+        "buttonBackground": "button_background.png",
+        "tetraminoT": "t_block_image.png",
+        "tetraminoStick": "stick_block_image.png",
+        "tetraminoDogLeft": "dog_left_block_image.png",
+        "tetraminoDogRight": "dog_right_block_image.png",
+        "tetraminoLLeft": "l_left_block_image.png",
+        "tetraminoLRight": "l_right_block_image.png",
+        "tetraminoSquare": "square_block_image.png"
+    }
+}
